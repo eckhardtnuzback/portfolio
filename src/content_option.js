@@ -1,6 +1,6 @@
-const logotext = "JOHN";
+const logotext = "Y. W.";
 const meta = {
-    title: "John Doe",
+    title: "Y. W.",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
@@ -141,9 +141,9 @@ const contactConfig = {
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_dhnfi9b",
+    YOUR_TEMPLATE_ID: "template_pqmq5nl",
+    YOUR_USER_ID: "BUhPtKcnw4LWK8ljc",
 };
 
 const socialprofils = {
